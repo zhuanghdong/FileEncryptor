@@ -1,0 +1,11 @@
+[project]
+name = "fileencryptor"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "cryptography>=46.0.3",
+    "pyinstaller>=6.17.0",
+    "tkinterdnd2>=0.4.3",
+]

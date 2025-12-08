@@ -1,0 +1,12 @@
+# 文件加密器依赖
+# 安装命令: pip install -r requirements.txt
+
+# 加密库
+cryptography>=41.0.0
+
+# 拖拽支持（可选，没有也能运行）
+tkinterdnd2>=0.3.0
+
+# 打包工具（仅打包时需要）
+pyinstaller>=6.0.0
+
